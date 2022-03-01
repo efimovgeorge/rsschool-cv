@@ -1,7 +1,7 @@
 # Efimov George
 ## Junior Frontend Developer - Stage 0
 
-| Efimov George (~229 lb) | <img src="/rsschool-cv/photo.jpeg" width="300" alt="photo efimov">   |
+| Efimov George (~229 lb) | <img src="/photo.jpeg" width="300" alt="photo efimov">   |
 | ----- | -----|
 | **Communication type** | **How to contact?** |
 | **Phone:** | [+79208024445](tel:+79208024445) |
