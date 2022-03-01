@@ -23,6 +23,6 @@ return  a * b
 } 
 ```
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.  
-***Where did I study?  
+Where did I study?  
 I studied at the Vorovsky Institute on Faculty of Pocket Traction.  
-My English is bad. И огорчений***
+My English is bad. И огорчений.
