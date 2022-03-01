@@ -3,7 +3,7 @@
 ## How can you contact me?
 ***
 ---
-
+![photo efimov](/)
 | Communication type | How to contact? |
 | ----- | -----|
 | **Phone:** | [+79208024445](tel:+79208024445) |
