@@ -16,7 +16,12 @@ My strong point (working) is the left one (as in the photo).
 I sometimes do my own projects - I develop websites.  
 Phew, Markdown has been added to my skills. Or not.  
 
-Примеры кода  
+***I even registered on codewars.com:***
+```JavaScript
+function multiply(a, b){
+return  a * b
+} 
+```
 Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.  
 Образование (включая пройденные курсы и тренинги)  
 Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)  
