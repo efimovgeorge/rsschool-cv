@@ -9,8 +9,6 @@
 | **Discord:** | [efimovgeorge (@efimovgeorge)](https://discordapp.com/users/efimovgeorge#5086) |
 | **GitHub** | https://github.com/efimovgeorge
 
-
-
 My main goal is to be a good person.  
 My strong point (working) is the left one (as in the photo).  
 I sometimes do my own projects - I develop websites.  
