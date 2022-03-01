@@ -16,7 +16,7 @@ My strong point (working) is the left one (as in the photo).
 I sometimes do my own projects - I develop websites.  
 Phew, Markdown has been added to my skills. Or not.  
 
-***I even registered on codewars.com:***
+***I even registered on https://www.codewars.com:***
 ```JavaScript
 function multiply(a, b){
 return  a * b
