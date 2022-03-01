@@ -20,6 +20,7 @@ function multiply(a, b){
 return  a * b
 } 
 ```
+
 **My most interesting project for today (March 1, 2022):**
 * https://github.com/efimovgeorge/rsschool-cv 
 
