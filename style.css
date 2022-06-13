@@ -1,1 +1,115 @@
-.header
+/* all */
+
+html, 
+body {
+	font-family: 'Roboto Slab', serif;
+	color: #272343;
+	margin: auto;
+	padding: 0;
+	max-width: 1550px;
+	min-width: 1510px;
+}
+a {
+	color: #550810;
+	text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+}
+h2 {
+	text-align: center;
+}
+
+/* header */
+
+header {
+	width: 60%;
+	height: 60%;
+	margin: 0 auto;
+	position: relative;
+}
+header p, a, li {
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+}
+header h1{
+	font-family: 'Roboto Slab', serif;
+	font-size: 45px;
+	text-align: center;
+	margin-top: 0px;
+}
+header h2{
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
+header img {
+	height: 110%;
+	right:0;
+	position:absolute;
+	bottom: -16px;
+}
+
+/* main */
+
+main {
+	background: #E3F5F5;
+	padding-bottom: 10px;
+}
+main nav {
+	background: #FFD706;
+	text-align: center;
+}
+main nav li {
+	display: inline-block;
+    padding: 10px;
+}
+code {
+	background-color: #E3F5F5; 
+}
+.about {
+	text-align: center;
+}
+.skills {
+	text-align: center;
+}
+.skills li {
+	text-align: center;
+	list-style: none;
+}
+.education {
+	text-align: center;
+}
+.project {
+	text-align: center;
+}
+.project li {
+	text-align: center;
+	list-style: none;
+}
+.code {
+	padding-top: 10px;
+	background: #FFFFFE;
+	text-align: center;
+	width: 25%;
+	height: 25%;
+	margin: auto;
+	border-radius: 10px;
+}
+
+/* footer */
+
+footer {
+	margin-top: -16px;
+	text-align: center;
+	background: #FFD706;
+}
+footer img {
+	width: 80px;
+    height: 29px;
+	padding-bottom: 15px;
+}
+footer p {
+	padding-top:15px;
+}
