@@ -1,4 +1,4 @@
-/* all */
+/*all*/
 
 html, 
 body {
@@ -14,13 +14,13 @@ a {
 	text-decoration: none;
 }
 a:hover {
-    font-weight: bold;
+	font-weight: bold;
 }
 h2 {
 	text-align: center;
 }
 
-/* header */
+/*header*/
 
 header {
 	width: 60%;
@@ -32,13 +32,13 @@ header p, a, li {
 	font-family: 'Roboto Slab', serif;
 	text-align: left;
 }
-header h1{
+header h1 {
 	font-family: 'Roboto Slab', serif;
 	font-size: 45px;
 	text-align: center;
 	margin-top: 0px;
 }
-header h2{
+header h2 {
 	font-family: 'Roboto Slab', serif;
 	text-align: center;
 	margin-top: -30px;
@@ -51,7 +51,7 @@ header img {
 	bottom: -16px;
 }
 
-/* main */
+/*main*/
 
 main {
 	background: #E3F5F5;
@@ -63,7 +63,7 @@ main nav {
 }
 main nav li {
 	display: inline-block;
-    padding: 10px;
+	padding: 10px;
 }
 code {
 	background-color: #E3F5F5; 
@@ -98,7 +98,7 @@ code {
 	border-radius: 10px;
 }
 
-/* footer */
+/*footer*/
 
 footer {
 	margin-top: -16px;
@@ -107,7 +107,7 @@ footer {
 }
 footer img {
 	width: 80px;
-    height: 29px;
+	height: 29px;
 	padding-bottom: 15px;
 }
 footer p {
